@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SmartSchool.API
+build_property.ProjectDir = D:\Cursos\Criando uma WebAPI RESTful utilizando Asp .NET Core, Entity Framework Core, Docker, Angular, MySQL e Mais\SmartSchool\SmartSchool.API\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
