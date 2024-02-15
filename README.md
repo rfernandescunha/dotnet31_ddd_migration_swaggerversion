@@ -1,0 +1,1 @@
+# dotnet31_ddd_migration_swaggerversion
